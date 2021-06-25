@@ -334,7 +334,7 @@ def run_lucas(v = v):
         elif "who" in command or "what" in command:
 
             try:
-                app_id = "8H9R7Q-H38YE4648H"
+                app_id = null #enter appid here instead
 
                 # Instance of wolf ram alpha
                 # client class
